@@ -1,5 +1,4 @@
-
-reach me @ jhswolski@inf.ufsm.br
+18 years old 
 
 <!---
 joaohsw/joaohsw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
