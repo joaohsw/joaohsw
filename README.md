@@ -1,4 +1,4 @@
-18 years old 
+Information systems @ UFSM
 
 <!---
 joaohsw/joaohsw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
