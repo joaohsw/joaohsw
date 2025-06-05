@@ -1,4 +1,4 @@
-Information systems @ UFSM
+Information systems student at Universidade Federal de Santa Maria
 
 <!---
 joaohsw/joaohsw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
